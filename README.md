@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Asim Qarib
+**A passionate Data Analyst || SQL || Python || Power BI || from Pakistan**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **asimraza1266@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
@@ -9,13 +9,12 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Asim Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asimqarib&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 🔗 I am a Content Creator. 😊😊
+  
+## 🔗 I am a Data Analyst & Data Scientist. 😊😊
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+Stay updated with the latest tutorials and projects by following to my Github Profile and following on Instagram, Facebook and Lindeln.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/asimqarib1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asim-qarib-401360388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asimraza1266@gmail.com) 
 
